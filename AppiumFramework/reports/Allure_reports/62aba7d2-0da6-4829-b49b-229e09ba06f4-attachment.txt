@@ -1,0 +1,6 @@
+[32mINFO    [0m EnterValueForm:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et1
+[32mINFO    [0m EnterValueForm:BaseTest.py:92 Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et1
+[32mINFO    [0m EnterValueForm:EnterValuePage.py:28 ENTER TEXT IN TEXT FIELD.
+[32mINFO    [0m EnterValueForm:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+[35mDEBUG   [0m EnterValueForm:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+[32mINFO    [0m EnterValueForm:EnterValuePage.py:32 SUBMIT BUTTON CLICKED.

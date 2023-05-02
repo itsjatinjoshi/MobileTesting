@@ -1,0 +1,2 @@
+[32mINFO    [0m LoginPage:BaseTest.py:68 Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+[32mINFO    [0m LoginPage:BaseTest.py:96 Unable to send text element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4

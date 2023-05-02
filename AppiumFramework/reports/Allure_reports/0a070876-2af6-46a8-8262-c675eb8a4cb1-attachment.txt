@@ -1,0 +1,6 @@
+[32mINFO    [0m ContactUsFormTest:ContactUsFormTest.py:15 APP LAUNCHED.
+[32mINFO    [0m ContactUsForm:BaseTest.py:63 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+[35mDEBUG   [0m ContactUsForm:BaseTest.py:78 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+[32mINFO    [0m ContactUsForm:ContactUsFormPage.py:21 CONTACT US BUTTON CLICKED.
+[35mDEBUG   [0m ContactUsForm:BaseTest.py:103 Element is Displayed with LocatorType text and LocatorValue Contact Us form
+[32mINFO    [0m ContactUsForm:ContactUsFormPage.py:26 VERIFY CONTACT PAGE.

@@ -1,0 +1,3 @@
+[32mINFO    [0m LoginPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+[35mDEBUG   [0m LoginPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+[35mDEBUG   [0m LoginPage:BaseTest.py:123 Element is Displayed with LocatorType text and LocatorValue Login Page

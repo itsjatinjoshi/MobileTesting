@@ -1,0 +1,5 @@
+[32mINFO    [0m EnterValueForm:BaseTest.py:63 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+[35mDEBUG   [0m EnterValueForm:BaseTest.py:78 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+[32mINFO    [0m EnterValueForm:EnterValuePage.py:19 ENTER VALUE BUTTON CLICKED.
+[35mDEBUG   [0m EnterValueForm:BaseTest.py:103 Element is Displayed with LocatorType text and LocatorValue Enter some Value
+[32mINFO    [0m EnterValueForm:EnterValuePage.py:24 VERIFY ENTER VALUE PAGE.

@@ -1,0 +1,15 @@
+[32mINFO    [0m ContactUsForm:BaseTest.py:64 Element found with LocatorType text and LocatorValue Enter Name
+[32mINFO    [0m ContactUsForm:BaseTest.py:91 Send text on element with LocatorType text and LocatorValue Enter Name
+[32mINFO    [0m ContactUsForm:ContactUsFormPage.py:31 CONTACT PAGE NAME.
+[32mINFO    [0m ContactUsForm:BaseTest.py:64 Element found with LocatorType text and LocatorValue Enter Email
+[32mINFO    [0m ContactUsForm:BaseTest.py:91 Send text on element with LocatorType text and LocatorValue Enter Email
+[32mINFO    [0m ContactUsForm:ContactUsFormPage.py:35 CONTACT PAGE EMAIL.
+[32mINFO    [0m ContactUsForm:BaseTest.py:64 Element found with LocatorType text and LocatorValue Enter Address
+[32mINFO    [0m ContactUsForm:BaseTest.py:91 Send text on element with LocatorType text and LocatorValue Enter Address
+[32mINFO    [0m ContactUsForm:ContactUsFormPage.py:39 CONTACT PAGE ADDRESS.
+[32mINFO    [0m ContactUsForm:BaseTest.py:64 Element found with LocatorType text and LocatorValue Enter Mobile No
+[32mINFO    [0m ContactUsForm:BaseTest.py:91 Send text on element with LocatorType text and LocatorValue Enter Mobile No
+[32mINFO    [0m ContactUsForm:ContactUsFormPage.py:43 CONTACT PAGE MOBILE NUMBER.
+[32mINFO    [0m ContactUsForm:BaseTest.py:64 Element found with LocatorType text and LocatorValue SUBMIT
+[35mDEBUG   [0m ContactUsForm:BaseTest.py:79 Click on element with LocatorType text and LocatorValue SUBMIT
+[32mINFO    [0m ContactUsForm:ContactUsFormPage.py:47 CONTACT PAGE SUBMIT BUTTON.

@@ -1,0 +1,1629 @@
+27/04/23 01:30:24 PM Thursday - <module> - INFO : Testing
+28/04/23 09:00:19 AM Friday - <module> - INFO : Testing
+28/04/23 09:21:14 AM Friday - <module> - INFO : Testing
+28/04/23 09:21:14 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:21:14 AM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:44:09 AM Friday - <module> - INFO : Testing
+28/04/23 09:44:10 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:44:10 AM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:44:13 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 09:44:13 AM Friday - BaseTest - INFO : Element is present with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 09:44:13 AM Friday - <module> - INFO : None
+28/04/23 09:44:13 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 09:44:14 AM Friday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:00:46 AM Friday - <module> - INFO : Testing
+28/04/23 10:00:50 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:00:50 AM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:00:53 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:00:53 AM Friday - BaseTest - INFO : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:00:53 AM Friday - <module> - INFO : True
+28/04/23 10:00:53 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:00:54 AM Friday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:02:40 AM Friday - <module> - INFO : Testing
+28/04/23 10:02:43 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:02:43 AM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:02:50 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:02:52 AM Friday - BaseTest - INFO : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:02:52 AM Friday - <module> - INFO : True
+28/04/23 10:02:53 AM Friday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:02:54 AM Friday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:13:03 AM Friday - <module> - INFO : Testing
+28/04/23 10:13:51 AM Friday - <module> - INFO : Testing
+28/04/23 10:17:53 AM Friday - <module> - INFO : Testing
+28/04/23 10:19:28 AM Friday - <module> - INFO : Testing
+28/04/23 10:19:31 AM Friday - BaseTest - INFO : Screenshot saved to the path: ../screenshots/Main_Page_28_04_23_10_19_28.png
+28/04/23 10:20:32 AM Friday - <module> - INFO : Testing
+28/04/23 10:20:37 AM Friday - BaseTest - INFO : Screenshot saved to the path: ../screenshots/Main_Page_28_04_23_10_20_32.png
+28/04/23 10:21:23 AM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:21:23 AM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:21:23 AM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:22:09 AM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:22:09 AM Friday - BaseTest - INFO : Element is not present with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:22:09 AM Friday - <module> - INFO : False
+28/04/23 10:22:54 AM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:22:54 AM Friday - BaseTest - INFO : Unable to send text element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et2
+28/04/23 10:22:58 AM Friday - BaseTest - INFO : Screenshot saved to the path: ../screenshots/Contact_Page_Main_28_04_23_10_22_54.png
+28/04/23 03:12:03 PM Friday - <module> - INFO : Testing
+28/04/23 03:12:03 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:12:03 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:12:03 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:12:03 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 03:12:03 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 03:15:32 PM Friday - <module> - INFO : Testing
+28/04/23 03:15:32 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:15:32 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:15:32 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:15:32 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 03:15:32 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 03:25:43 PM Friday - <module> - INFO : Testing
+28/04/23 03:25:43 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:25:43 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:25:43 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:26:03 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 03:33:58 PM Friday - <module> - INFO : Testing
+28/04/23 03:33:58 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:33:58 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:33:58 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:33:58 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 03:46:38 PM Friday - <module> - INFO : Testing
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Click on element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 03:46:38 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 03:47:14 PM Friday - <module> - INFO : Testing
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Click on element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 03:47:14 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 04:19:18 PM Friday - <module> - INFO : Testing
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Click on element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 04:19:18 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 04:20:34 PM Friday - <module> - INFO : Testing
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Click on element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 04:20:34 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 05:07:06 PM Friday - <module> - INFO : Testing
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Name',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Email',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Address',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue ('Enter Mobile No',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Click on element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 05:07:06 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType text and LocatorValue ('SUBMIT',)
+28/04/23 05:08:33 PM Friday - <module> - INFO : Testing
+28/04/23 05:08:33 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:08:33 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:08:33 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:08:33 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 05:14:20 PM Friday - <module> - INFO : Testing
+28/04/23 05:14:20 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:14:20 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:14:20 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:14:20 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 05:14:58 PM Friday - <module> - INFO : Testing
+28/04/23 05:14:58 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:14:58 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:14:58 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:14:58 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 05:15:34 PM Friday - <module> - INFO : Testing
+28/04/23 05:15:34 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:15:34 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:15:34 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:15:34 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue ('Contact Us form',)
+28/04/23 05:17:18 PM Friday - <module> - INFO : Testing
+28/04/23 05:17:18 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue Contact Us form
+28/04/23 05:17:18 PM Friday - <module> - INFO : False
+28/04/23 05:17:44 PM Friday - <module> - INFO : Testing
+28/04/23 05:17:44 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 05:17:44 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 05:17:44 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 05:17:44 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue Contact Us form
+28/04/23 05:17:44 PM Friday - <module> - INFO : False
+28/04/23 05:18:53 PM Friday - <module> - INFO : Testing
+28/04/23 05:18:53 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 05:18:53 PM Friday - BaseTest - INFO : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 05:18:53 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 05:18:53 PM Friday - BaseTest - INFO : Element is not present with LocatorType text and LocatorValue Contact Us form
+28/04/23 05:23:24 PM Friday - <module> - INFO : Testing
+28/04/23 05:23:24 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 05:23:24 PM Friday - BaseTest - DEBUG : Element is not present with LocatorType text and LocatorValue Contact Us form
+28/04/23 05:30:47 PM Friday - <module> - INFO : Testing
+28/04/23 05:30:47 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:33:08 PM Friday - <module> - INFO : Testing
+28/04/23 05:33:08 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:33:08 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 05:33:08 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:13:40 PM Friday - <module> - INFO : Testing
+28/04/23 08:13:40 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:13:40 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:13:40 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:15:12 PM Friday - <module> - INFO : Testing
+28/04/23 08:15:12 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:15:12 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:15:12 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:18:04 PM Friday - <module> - INFO : Testing
+28/04/23 08:18:04 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:18:04 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:18:04 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:23:29 PM Friday - <module> - INFO : Testing
+28/04/23 08:23:29 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:23:29 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:23:29 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:26:09 PM Friday - <module> - INFO : Testing
+28/04/23 08:26:09 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:26:09 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:26:09 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:43:06 PM Friday - <module> - INFO : Testing
+28/04/23 08:43:06 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:43:06 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:43:06 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:52:06 PM Friday - <module> - INFO : Testing
+28/04/23 08:52:06 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:52:06 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:52:06 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:53:05 PM Friday - <module> - INFO : Testing
+28/04/23 08:53:05 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:53:05 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:53:05 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue ('com.code2lead.kwad:id/ContactUs',)
+28/04/23 08:54:12 PM Friday - <module> - INFO : Testing
+28/04/23 08:54:12 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 08:54:12 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 08:54:12 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 08:56:43 PM Friday - <module> - INFO : Testing
+28/04/23 08:56:43 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 08:56:43 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 08:56:43 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 08:58:31 PM Friday - <module> - INFO : Testing
+28/04/23 08:58:31 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 08:58:31 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 08:58:31 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 08:58:31 PM Friday - BaseTest - DEBUG : Element is not present with LocatorType text and LocatorValue Contact Us form
+28/04/23 09:02:06 PM Friday - <module> - INFO : Testing
+28/04/23 09:02:06 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:02:06 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:02:06 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:11:55 PM Friday - <module> - INFO : Testing
+28/04/23 09:11:55 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:11:55 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:11:55 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:15:32 PM Friday - <module> - INFO : Testing
+28/04/23 09:15:32 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:15:32 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:15:32 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:18:58 PM Friday - <module> - INFO : Testing
+28/04/23 09:18:58 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:18:58 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:18:58 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:19:53 PM Friday - <module> - INFO : Testing
+28/04/23 09:19:53 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:19:53 PM Friday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:19:53 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:27:58 PM Friday - <module> - INFO : Testing
+28/04/23 09:27:58 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 09:27:58 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:07:33 PM Friday - <module> - INFO : Testing
+28/04/23 10:07:33 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:07:33 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:10:34 PM Friday - <module> - INFO : Testing
+28/04/23 10:10:34 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:10:34 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:12:03 PM Friday - <module> - INFO : Testing
+28/04/23 10:12:03 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:12:03 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:20:19 PM Friday - <module> - INFO : Testing
+28/04/23 10:20:19 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:20:19 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:24:23 PM Friday - <module> - INFO : Testing
+28/04/23 10:24:23 PM Friday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+28/04/23 10:24:23 PM Friday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 01:37:50 PM Saturday - <module> - INFO : Testing
+29/04/23 01:37:50 PM Saturday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 01:37:50 PM Saturday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:07:37 PM Saturday - <module> - INFO : Testing
+29/04/23 02:07:37 PM Saturday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:07:37 PM Saturday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:07:51 PM Saturday - <module> - INFO : Testing
+29/04/23 02:07:51 PM Saturday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:07:51 PM Saturday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:16:53 PM Saturday - <module> - INFO : Testing
+29/04/23 02:16:53 PM Saturday - BaseTest - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:16:53 PM Saturday - BaseTest - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:18:42 PM Saturday - <module> - INFO : Testing
+29/04/23 02:18:43 PM Saturday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:18:45 PM Saturday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:24:55 PM Saturday - <module> - INFO : Testing
+29/04/23 02:24:56 PM Saturday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:24:56 PM Saturday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 02:24:58 PM Saturday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+29/04/23 02:24:59 PM Saturday - BaseTest - INFO : Element found with LocatorType text and LocatorValue Enter Name
+29/04/23 02:24:59 PM Saturday - BaseTest - INFO : Send text on element with LocatorType text and LocatorValue Enter Name
+29/04/23 02:25:00 PM Saturday - BaseTest - INFO : Element found with LocatorType text and LocatorValue Enter Email
+29/04/23 02:25:00 PM Saturday - BaseTest - INFO : Send text on element with LocatorType text and LocatorValue Enter Email
+29/04/23 02:25:01 PM Saturday - BaseTest - INFO : Element found with LocatorType text and LocatorValue Enter Address
+29/04/23 02:25:01 PM Saturday - BaseTest - INFO : Send text on element with LocatorType text and LocatorValue Enter Address
+29/04/23 02:25:02 PM Saturday - BaseTest - INFO : Element found with LocatorType text and LocatorValue Enter Mobile No
+29/04/23 02:25:03 PM Saturday - BaseTest - INFO : Send text on element with LocatorType text and LocatorValue Enter Mobile No
+29/04/23 02:25:03 PM Saturday - BaseTest - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+29/04/23 02:25:03 PM Saturday - BaseTest - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+29/04/23 03:00:56 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Name
+29/04/23 03:00:56 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Name
+29/04/23 03:01:42 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Email
+29/04/23 03:01:42 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Email
+29/04/23 03:02:27 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Address
+29/04/23 03:02:27 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Address
+29/04/23 03:03:00 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Mobile No
+29/04/23 03:03:00 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Mobile No
+29/04/23 03:03:00 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue SUBMIT
+29/04/23 03:03:00 PM Saturday - BaseTest - INFO : Unable to click Element with LocatorType text and LocatorValue SUBMIT
+29/04/23 03:03:00 PM Saturday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 03:03:01 PM Saturday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 03:03:02 PM Saturday - BaseTest - DEBUG : Element is not present with LocatorType text and LocatorValue Contact Us form
+29/04/23 03:05:14 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Name
+29/04/23 03:05:14 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Name
+29/04/23 03:05:59 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Email
+29/04/23 03:05:59 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Email
+29/04/23 03:06:45 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Address
+29/04/23 03:06:45 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Address
+29/04/23 03:07:30 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Mobile No
+29/04/23 03:07:30 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Mobile No
+29/04/23 03:08:15 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue SUBMIT
+29/04/23 03:08:15 PM Saturday - BaseTest - INFO : Unable to click Element with LocatorType text and LocatorValue SUBMIT
+29/04/23 03:08:15 PM Saturday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 03:08:16 PM Saturday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 03:08:18 PM Saturday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+29/04/23 03:14:29 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Name
+29/04/23 03:14:29 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Name
+29/04/23 03:15:15 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Email
+29/04/23 03:15:15 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Email
+29/04/23 03:16:00 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Address
+29/04/23 03:16:00 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Address
+29/04/23 03:16:45 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Mobile No
+29/04/23 03:16:45 PM Saturday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Mobile No
+29/04/23 03:17:31 PM Saturday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue SUBMIT
+29/04/23 03:17:31 PM Saturday - BaseTest - INFO : Unable to click Element with LocatorType text and LocatorValue SUBMIT
+29/04/23 03:17:31 PM Saturday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 03:17:32 PM Saturday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+29/04/23 03:17:34 PM Saturday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+30/04/23 02:28:00 PM Sunday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Name
+30/04/23 02:28:00 PM Sunday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Name
+30/04/23 02:28:45 PM Sunday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Email
+30/04/23 02:28:45 PM Sunday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Email
+30/04/23 02:29:31 PM Sunday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Address
+30/04/23 02:29:31 PM Sunday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Address
+30/04/23 02:30:17 PM Sunday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue Enter Mobile No
+30/04/23 02:30:17 PM Sunday - BaseTest - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Mobile No
+30/04/23 02:31:02 PM Sunday - BaseTest - INFO : Element not found with LocatorType text and LocatorValue SUBMIT
+30/04/23 02:31:02 PM Sunday - BaseTest - INFO : Unable to click Element with LocatorType text and LocatorValue SUBMIT
+30/04/23 02:31:02 PM Sunday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+30/04/23 02:31:02 PM Sunday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+30/04/23 02:31:05 PM Sunday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+30/04/23 02:44:35 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue Enter Name
+30/04/23 02:44:35 PM Sunday - ContactUsForm - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Name
+30/04/23 02:44:35 PM Sunday - ContactUsForm - INFO : CONTACT PAGE NAME.
+30/04/23 02:45:21 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue Enter Email
+30/04/23 02:45:21 PM Sunday - ContactUsForm - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Email
+30/04/23 02:45:21 PM Sunday - ContactUsForm - INFO : CONTACT PAGE EMAIL.
+30/04/23 02:46:06 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue Enter Address
+30/04/23 02:46:06 PM Sunday - ContactUsForm - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Address
+30/04/23 02:46:06 PM Sunday - ContactUsForm - INFO : CONTACT PAGE ADDRESS.
+30/04/23 02:46:51 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue Enter Mobile No
+30/04/23 02:46:51 PM Sunday - ContactUsForm - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Mobile No
+30/04/23 02:46:51 PM Sunday - ContactUsForm - INFO : CONTACT PAGE MOBILE NUMBER.
+30/04/23 02:47:37 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue SUBMIT
+30/04/23 02:47:37 PM Sunday - ContactUsForm - INFO : Unable to click Element with LocatorType text and LocatorValue SUBMIT
+30/04/23 02:47:37 PM Sunday - ContactUsForm - INFO : CONTACT PAGE SUBMIT BUTTON.
+30/04/23 02:47:37 PM Sunday - ContactUsFormTest - INFO : APP LAUNCHED.
+30/04/23 02:47:37 PM Sunday - ContactUsForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+30/04/23 02:47:37 PM Sunday - ContactUsForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+30/04/23 02:47:37 PM Sunday - ContactUsForm - INFO : CONTACT US BUTTON CLICKED.
+30/04/23 02:47:39 PM Sunday - ContactUsForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+30/04/23 02:47:39 PM Sunday - ContactUsForm - INFO : VERIFY CONTACT PAGE.
+30/04/23 02:50:02 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue Enter Name
+30/04/23 02:50:02 PM Sunday - ContactUsForm - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Name
+30/04/23 02:50:02 PM Sunday - ContactUsForm - INFO : CONTACT PAGE NAME.
+30/04/23 02:50:48 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue Enter Email
+30/04/23 02:50:48 PM Sunday - ContactUsForm - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Email
+30/04/23 02:50:48 PM Sunday - ContactUsForm - INFO : CONTACT PAGE EMAIL.
+30/04/23 02:51:34 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue Enter Address
+30/04/23 02:51:34 PM Sunday - ContactUsForm - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Address
+30/04/23 02:51:34 PM Sunday - ContactUsForm - INFO : CONTACT PAGE ADDRESS.
+30/04/23 02:52:19 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue Enter Mobile No
+30/04/23 02:52:19 PM Sunday - ContactUsForm - INFO : Unable to send text element with LocatorType text and LocatorValue Enter Mobile No
+30/04/23 02:52:19 PM Sunday - ContactUsForm - INFO : CONTACT PAGE MOBILE NUMBER.
+30/04/23 02:53:05 PM Sunday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue SUBMIT
+30/04/23 02:53:05 PM Sunday - ContactUsForm - INFO : Unable to click Element with LocatorType text and LocatorValue SUBMIT
+30/04/23 02:53:05 PM Sunday - ContactUsForm - INFO : CONTACT PAGE SUBMIT BUTTON.
+30/04/23 02:53:05 PM Sunday - ContactUsFormTest - INFO : APP LAUNCHED.
+30/04/23 02:53:05 PM Sunday - ContactUsForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+30/04/23 02:53:05 PM Sunday - ContactUsForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+30/04/23 02:53:05 PM Sunday - ContactUsForm - INFO : CONTACT US BUTTON CLICKED.
+30/04/23 02:53:07 PM Sunday - ContactUsForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+30/04/23 02:53:07 PM Sunday - ContactUsForm - INFO : VERIFY CONTACT PAGE.
+30/04/23 02:55:06 PM Sunday - ContactUsFormTest - INFO : APP LAUNCHED.
+30/04/23 02:55:06 PM Sunday - ContactUsForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+30/04/23 02:55:07 PM Sunday - ContactUsForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+30/04/23 02:55:07 PM Sunday - ContactUsForm - INFO : CONTACT US BUTTON CLICKED.
+30/04/23 02:55:08 PM Sunday - ContactUsForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+30/04/23 02:55:08 PM Sunday - ContactUsForm - INFO : VERIFY CONTACT PAGE.
+30/04/23 02:55:08 PM Sunday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Name
+30/04/23 02:55:09 PM Sunday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Name
+30/04/23 02:55:09 PM Sunday - ContactUsForm - INFO : CONTACT PAGE NAME.
+30/04/23 02:55:10 PM Sunday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Email
+30/04/23 02:55:10 PM Sunday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Email
+30/04/23 02:55:10 PM Sunday - ContactUsForm - INFO : CONTACT PAGE EMAIL.
+30/04/23 02:55:11 PM Sunday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Address
+30/04/23 02:55:11 PM Sunday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Address
+30/04/23 02:55:11 PM Sunday - ContactUsForm - INFO : CONTACT PAGE ADDRESS.
+30/04/23 02:55:12 PM Sunday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Mobile No
+30/04/23 02:55:12 PM Sunday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Mobile No
+30/04/23 02:55:12 PM Sunday - ContactUsForm - INFO : CONTACT PAGE MOBILE NUMBER.
+30/04/23 02:55:13 PM Sunday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+30/04/23 02:55:13 PM Sunday - ContactUsForm - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+30/04/23 02:55:13 PM Sunday - ContactUsForm - INFO : CONTACT PAGE SUBMIT BUTTON.
+30/04/23 03:21:01 PM Sunday - EnterValueForm - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+30/04/23 03:21:01 PM Sunday - EnterValueForm - INFO : Unable to click Element with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+30/04/23 03:21:01 PM Sunday - EnterValueForm - INFO : ENTER VALUE BUTTON CLICKED.
+30/04/23 03:21:01 PM Sunday - EnterValueForm - DEBUG : Element is not present with LocatorType text and LocatorValue Enter some Value
+30/04/23 03:29:13 PM Sunday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+30/04/23 03:29:13 PM Sunday - EnterValueForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+30/04/23 03:29:13 PM Sunday - EnterValueForm - INFO : ENTER VALUE BUTTON CLICKED.
+30/04/23 03:29:15 PM Sunday - EnterValueForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter some Value
+30/04/23 03:29:15 PM Sunday - EnterValueForm - INFO : VERIFY ENTER VALUE PAGE.
+30/04/23 03:30:00 PM Sunday - EnterValueForm - INFO : Element not found with LocatorType id and LocatorValue Hello All
+30/04/23 03:30:00 PM Sunday - EnterValueForm - INFO : Unable to send text element with LocatorType id and LocatorValue Hello All
+30/04/23 03:30:00 PM Sunday - EnterValueForm - INFO : ENTER TEXT IN TEXT FIELD.
+30/04/23 03:30:00 PM Sunday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+30/04/23 03:30:00 PM Sunday - EnterValueForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+30/04/23 03:30:00 PM Sunday - EnterValueForm - INFO : SUBMIT BUTTON CLICKED.
+30/04/23 03:33:31 PM Sunday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+30/04/23 03:33:31 PM Sunday - EnterValueForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+30/04/23 03:33:31 PM Sunday - EnterValueForm - INFO : ENTER VALUE BUTTON CLICKED.
+30/04/23 03:33:33 PM Sunday - EnterValueForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter some Value
+30/04/23 03:33:33 PM Sunday - EnterValueForm - INFO : VERIFY ENTER VALUE PAGE.
+30/04/23 03:33:33 PM Sunday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et1
+30/04/23 03:33:33 PM Sunday - EnterValueForm - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et1
+30/04/23 03:33:33 PM Sunday - EnterValueForm - INFO : ENTER TEXT IN TEXT FIELD.
+30/04/23 03:33:34 PM Sunday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+30/04/23 03:33:34 PM Sunday - EnterValueForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+30/04/23 03:33:34 PM Sunday - EnterValueForm - INFO : SUBMIT BUTTON CLICKED.
+30/04/23 03:41:19 PM Sunday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+30/04/23 03:41:19 PM Sunday - EnterValueForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+30/04/23 03:41:19 PM Sunday - EnterValueForm - INFO : ENTER VALUE BUTTON CLICKED.
+30/04/23 03:41:21 PM Sunday - EnterValueForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter some Value
+30/04/23 03:41:21 PM Sunday - EnterValueForm - INFO : VERIFY ENTER VALUE PAGE.
+30/04/23 03:41:21 PM Sunday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et1
+30/04/23 03:41:22 PM Sunday - EnterValueForm - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et1
+30/04/23 03:41:22 PM Sunday - EnterValueForm - INFO : ENTER TEXT IN TEXT FIELD.
+30/04/23 03:41:22 PM Sunday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+30/04/23 03:41:22 PM Sunday - EnterValueForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+30/04/23 03:41:22 PM Sunday - EnterValueForm - INFO : SUBMIT BUTTON CLICKED.
+01/05/23 09:16:02 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:16:02 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:16:02 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:16:04 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue ScrollView
+01/05/23 09:16:04 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:16:04 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:16:06 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:06 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:06 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:06 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:16:06 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:16:08 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:08 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:08 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:09 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:16:09 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:16:11 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:11 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:11 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:11 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:16:11 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:16:13 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:13 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:13 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:14 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:16:14 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:16:15 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:16 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:16 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:16 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:16:16 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:16:18 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:18 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:18 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:19 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:16:19 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:16:20 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:20 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:20 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:21 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:16:21 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:16:23 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:23 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:23 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:24 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:16:24 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:16:25 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:25 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:25 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:26 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:16:26 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:16:27 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:28 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:28 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:33 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:16:33 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:16:34 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:34 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:34 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:35 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:16:35 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:16:37 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:37 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:37 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:37 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:16:38 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:16:39 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:39 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:39 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:40 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:16:40 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:16:41 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:41 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:41 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:16:42 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:16:42 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:16:44 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:16:44 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:16:44 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:17:41 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:17:42 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:17:42 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:17:43 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue ScrollView
+01/05/23 09:17:43 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:17:44 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:18:29 AM Monday - ScrollViewPage - DEBUG : Element is not present with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:18 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:22:18 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:22:18 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:22:20 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue ScrollView
+01/05/23 09:22:20 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:22:20 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:22:22 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:22 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:22 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:22 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:22:23 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:22:24 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:24 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:24 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:25 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:22:25 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:22:27 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:27 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:27 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:28 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:22:28 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:22:29 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:29 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:30 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:30 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:22:30 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:22:32 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:32 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:32 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:33 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:22:33 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:22:34 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:34 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:34 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:35 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:22:35 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:22:37 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:37 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:37 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:38 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:22:38 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:22:39 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:39 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:39 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:40 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:22:40 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:22:42 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:42 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:42 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:42 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:22:43 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:22:44 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:44 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:44 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:49 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:22:50 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:22:51 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:51 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:51 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:52 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:22:52 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:22:54 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:54 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:54 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:54 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:22:55 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:22:56 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:56 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:56 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:57 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:22:57 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:22:58 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:22:58 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:22:58 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:22:59 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:22:59 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:23:01 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:23:01 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:23:01 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:23:46 AM Monday - ScrollViewPage - INFO : Element not found with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:23:46 AM Monday - ScrollViewPage - INFO : Unable to click Element with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:23:56 AM Monday - ScrollViewPage - DEBUG : Element is not present with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:19 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:24:19 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:24:19 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:24:21 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue ScrollView
+01/05/23 09:24:22 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:24:22 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:24:24 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:24 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:24 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:25 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:24:25 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:24:26 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:26 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:26 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:27 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:24:27 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:24:29 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:29 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:29 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:29 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:24:30 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:24:31 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:31 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:31 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:32 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:24:32 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:24:34 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:34 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:34 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:35 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:24:35 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:24:36 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:36 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:36 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:37 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:24:37 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:24:39 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:39 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:39 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:40 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:24:40 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:24:41 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:41 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:41 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:42 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:24:42 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:24:44 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:44 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:44 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:45 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:24:45 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:24:46 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:46 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:46 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:51 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:24:51 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:24:53 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:53 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:53 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:54 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:24:54 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:24:55 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:55 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:56 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:56 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:24:56 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:24:58 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:24:58 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:24:58 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:24:59 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:24:59 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:25:00 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:00 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:25:01 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:25:01 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:25:01 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:25:03 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:03 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:25:03 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:25:06 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:25:06 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:25:07 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:07 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:08 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:09 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:09 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:09 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:11 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:25:11 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:25:13 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:13 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:13 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:13 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:14 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:14 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:16 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:25:16 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:25:17 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:17 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:17 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:18 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:19 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:19 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:21 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:25:21 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:25:22 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:22 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:22 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:23 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:24 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:24 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:25 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:25:25 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:25:27 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:27 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:27 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:28 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:29 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:29 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:30 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:25:30 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:25:32 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:32 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:32 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:33 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:34 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:34 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:35 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:25:35 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:25:37 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:37 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:37 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:38 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:39 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:39 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:40 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:25:40 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:25:42 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:42 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:42 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:42 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:44 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:44 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:45 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:25:45 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:25:47 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:47 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:47 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:47 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:48 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:48 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:50 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:25:50 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:25:52 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:25:52 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:25:52 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:25:53 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:54 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:25:54 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:25:59 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:26:00 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:26:01 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:26:01 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:26:01 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:26:02 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:03 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:03 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:26:09 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:26:09 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:26:10 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:26:10 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:26:10 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:26:11 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:12 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:12 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:26:17 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:26:17 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:26:19 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:26:19 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:26:19 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:26:20 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:21 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:21 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:26:26 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:26:26 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:26:28 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:26:28 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:26:28 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:26:29 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:30 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:30 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:26:35 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:26:36 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:26:37 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:26:37 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 09:26:37 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 09:26:38 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:39 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:26:39 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:47:01 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:47:01 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:47:01 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:47:47 AM Monday - ScrollViewPage - DEBUG : Element is not present with LocatorType text and LocatorValue ScrollView
+01/05/23 09:48:38 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:48:38 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 09:48:38 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 09:48:40 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue ScrollView
+01/05/23 09:48:40 AM Monday - ScrollViewPage - INFO : BUTTON1
+01/05/23 09:48:40 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:48:40 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 09:48:42 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:48:42 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:48:42 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:48:42 AM Monday - ScrollViewPage - INFO : BUTTON2
+01/05/23 09:48:43 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:48:43 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON2
+01/05/23 09:48:44 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:48:45 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:48:45 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:48:45 AM Monday - ScrollViewPage - INFO : BUTTON3
+01/05/23 09:48:45 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:48:45 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON3
+01/05/23 09:48:47 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:48:47 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:48:47 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:48:47 AM Monday - ScrollViewPage - INFO : BUTTON4
+01/05/23 09:48:48 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:48:48 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON4
+01/05/23 09:48:50 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:48:50 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:48:50 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:48:50 AM Monday - ScrollViewPage - INFO : BUTTON5
+01/05/23 09:48:50 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:48:51 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON5
+01/05/23 09:48:52 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:48:52 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:48:52 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:48:52 AM Monday - ScrollViewPage - INFO : BUTTON6
+01/05/23 09:48:53 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:48:53 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON6
+01/05/23 09:48:55 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:48:55 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:48:55 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:48:55 AM Monday - ScrollViewPage - INFO : BUTTON7
+01/05/23 09:48:56 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:48:56 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON7
+01/05/23 09:48:57 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:48:57 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:48:58 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:48:58 AM Monday - ScrollViewPage - INFO : BUTTON8
+01/05/23 09:48:58 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:48:58 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON8
+01/05/23 09:49:00 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:49:00 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:49:00 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:49:00 AM Monday - ScrollViewPage - INFO : BUTTON9
+01/05/23 09:49:01 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:49:01 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON9
+01/05/23 09:49:03 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:49:03 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:49:03 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:49:03 AM Monday - ScrollViewPage - INFO : BUTTON10
+01/05/23 09:49:04 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:49:04 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON10
+01/05/23 09:49:05 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:49:05 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:49:06 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:49:06 AM Monday - ScrollViewPage - INFO : BUTTON11
+01/05/23 09:49:11 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:49:12 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON11
+01/05/23 09:49:13 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:49:13 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:49:13 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:49:13 AM Monday - ScrollViewPage - INFO : BUTTON12
+01/05/23 09:49:14 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:49:14 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON12
+01/05/23 09:49:16 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:49:16 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:49:16 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:49:16 AM Monday - ScrollViewPage - INFO : BUTTON13
+01/05/23 09:49:17 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:49:17 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON13
+01/05/23 09:49:19 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:49:19 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:49:19 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:49:19 AM Monday - ScrollViewPage - INFO : BUTTON14
+01/05/23 09:49:20 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:49:20 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON14
+01/05/23 09:49:21 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:49:21 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:49:21 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 09:49:21 AM Monday - ScrollViewPage - INFO : BUTTON15
+01/05/23 09:49:22 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:49:22 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON15
+01/05/23 09:49:24 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 09:49:24 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 09:49:24 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:03 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:20:03 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:20:03 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:20:05 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue ScrollView
+01/05/23 10:20:06 AM Monday - ScrollViewPage - INFO : BUTTON1
+01/05/23 10:20:06 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 10:20:06 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 10:20:08 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:08 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:08 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:08 AM Monday - ScrollViewPage - INFO : BUTTON2
+01/05/23 10:20:09 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON2
+01/05/23 10:20:09 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON2
+01/05/23 10:20:10 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:10 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:11 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:11 AM Monday - ScrollViewPage - INFO : BUTTON3
+01/05/23 10:20:11 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON3
+01/05/23 10:20:11 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON3
+01/05/23 10:20:13 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:13 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:13 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:13 AM Monday - ScrollViewPage - INFO : BUTTON4
+01/05/23 10:20:14 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON4
+01/05/23 10:20:14 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON4
+01/05/23 10:20:15 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:15 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:16 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:16 AM Monday - ScrollViewPage - INFO : BUTTON5
+01/05/23 10:20:16 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON5
+01/05/23 10:20:16 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON5
+01/05/23 10:20:18 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:18 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:18 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:18 AM Monday - ScrollViewPage - INFO : BUTTON6
+01/05/23 10:20:19 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON6
+01/05/23 10:20:19 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON6
+01/05/23 10:20:21 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:21 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:21 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:21 AM Monday - ScrollViewPage - INFO : BUTTON7
+01/05/23 10:20:22 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON7
+01/05/23 10:20:22 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON7
+01/05/23 10:20:23 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:23 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:24 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:24 AM Monday - ScrollViewPage - INFO : BUTTON8
+01/05/23 10:20:24 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON8
+01/05/23 10:20:24 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON8
+01/05/23 10:20:26 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:26 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:26 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:26 AM Monday - ScrollViewPage - INFO : BUTTON9
+01/05/23 10:20:26 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON9
+01/05/23 10:20:27 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON9
+01/05/23 10:20:28 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:28 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:28 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:28 AM Monday - ScrollViewPage - INFO : BUTTON10
+01/05/23 10:20:29 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON10
+01/05/23 10:20:29 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON10
+01/05/23 10:20:30 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:30 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:31 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:31 AM Monday - ScrollViewPage - INFO : BUTTON11
+01/05/23 10:20:36 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON11
+01/05/23 10:20:36 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON11
+01/05/23 10:20:38 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:38 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:38 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:38 AM Monday - ScrollViewPage - INFO : BUTTON12
+01/05/23 10:20:38 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON12
+01/05/23 10:20:38 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON12
+01/05/23 10:20:40 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:40 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:40 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:40 AM Monday - ScrollViewPage - INFO : BUTTON13
+01/05/23 10:20:41 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON13
+01/05/23 10:20:41 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON13
+01/05/23 10:20:42 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:42 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:42 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:42 AM Monday - ScrollViewPage - INFO : BUTTON14
+01/05/23 10:20:43 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON14
+01/05/23 10:20:43 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON14
+01/05/23 10:20:45 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:45 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:45 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:45 AM Monday - ScrollViewPage - INFO : BUTTON15
+01/05/23 10:20:46 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON15
+01/05/23 10:20:46 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON15
+01/05/23 10:20:47 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:47 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 10:20:47 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 10:20:50 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 10:20:51 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 10:20:52 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:52 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:20:52 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:20:54 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:20:54 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:20:54 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:20:56 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON2
+01/05/23 10:20:56 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON2
+01/05/23 10:20:58 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:20:58 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:20:58 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:20:59 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:00 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:00 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:01 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON3
+01/05/23 10:21:01 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON3
+01/05/23 10:21:03 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:03 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:03 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:04 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:05 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:05 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:07 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON4
+01/05/23 10:21:07 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON4
+01/05/23 10:21:08 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:08 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:09 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:09 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:10 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:10 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:12 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON5
+01/05/23 10:21:12 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON5
+01/05/23 10:21:13 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:13 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:13 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:14 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:15 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:15 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:16 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON6
+01/05/23 10:21:17 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON6
+01/05/23 10:21:18 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:18 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:18 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:19 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:20 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:20 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:21 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON7
+01/05/23 10:21:21 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON7
+01/05/23 10:21:23 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:23 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:23 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:24 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:25 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:25 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:26 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON8
+01/05/23 10:21:26 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON8
+01/05/23 10:21:28 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:28 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:28 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:29 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:30 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:30 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:31 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON9
+01/05/23 10:21:31 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON9
+01/05/23 10:21:32 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:33 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:33 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:33 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:34 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:34 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:36 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON10
+01/05/23 10:21:36 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON10
+01/05/23 10:21:37 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:37 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:37 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:38 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:40 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:40 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:44 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON11
+01/05/23 10:21:44 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON11
+01/05/23 10:21:45 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:45 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:45 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:46 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:47 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:47 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:21:52 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON12
+01/05/23 10:21:53 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON12
+01/05/23 10:21:54 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:21:54 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:21:54 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:21:55 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:56 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:21:56 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:22:02 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON13
+01/05/23 10:22:02 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON13
+01/05/23 10:22:03 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:22:03 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:22:03 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:22:04 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:22:05 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:22:05 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:22:11 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON14
+01/05/23 10:22:11 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON14
+01/05/23 10:22:13 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:22:13 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:22:13 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:22:13 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:22:14 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:22:14 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:22:20 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON15
+01/05/23 10:22:21 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON15
+01/05/23 10:22:22 AM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 10:22:22 AM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 10:22:22 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 10:22:23 AM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:22:24 AM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 10:22:24 AM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 10:41:46 AM Monday - ContactUsFormTest - INFO : APP LAUNCHED.
+01/05/23 10:41:46 AM Monday - ContactUsForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 10:41:46 AM Monday - ContactUsForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 10:41:46 AM Monday - ContactUsForm - INFO : CONTACT US BUTTON CLICKED.
+01/05/23 10:41:49 AM Monday - ContactUsForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+01/05/23 10:41:49 AM Monday - ContactUsForm - INFO : VERIFY CONTACT PAGE.
+01/05/23 10:41:49 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Name
+01/05/23 10:41:50 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Name
+01/05/23 10:41:50 AM Monday - ContactUsForm - INFO : CONTACT PAGE NAME.
+01/05/23 10:41:50 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Email
+01/05/23 10:41:51 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Email
+01/05/23 10:41:51 AM Monday - ContactUsForm - INFO : CONTACT PAGE EMAIL.
+01/05/23 10:41:51 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Address
+01/05/23 10:41:52 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Address
+01/05/23 10:41:52 AM Monday - ContactUsForm - INFO : CONTACT PAGE ADDRESS.
+01/05/23 10:41:52 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Mobile No
+01/05/23 10:41:53 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Mobile No
+01/05/23 10:41:53 AM Monday - ContactUsForm - INFO : CONTACT PAGE MOBILE NUMBER.
+01/05/23 10:41:54 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 10:41:54 AM Monday - ContactUsForm - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 10:41:54 AM Monday - ContactUsForm - INFO : CONTACT PAGE SUBMIT BUTTON.
+01/05/23 10:42:37 AM Monday - ContactUsFormTest - INFO : APP LAUNCHED.
+01/05/23 10:42:38 AM Monday - ContactUsForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 10:42:38 AM Monday - ContactUsForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 10:42:38 AM Monday - ContactUsForm - INFO : CONTACT US BUTTON CLICKED.
+01/05/23 10:42:40 AM Monday - ContactUsForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+01/05/23 10:42:40 AM Monday - ContactUsForm - INFO : VERIFY CONTACT PAGE.
+01/05/23 10:42:40 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Name
+01/05/23 10:42:41 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Name
+01/05/23 10:42:41 AM Monday - ContactUsForm - INFO : CONTACT PAGE NAME.
+01/05/23 10:42:41 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Email
+01/05/23 10:42:42 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Email
+01/05/23 10:42:42 AM Monday - ContactUsForm - INFO : CONTACT PAGE EMAIL.
+01/05/23 10:42:43 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Address
+01/05/23 10:42:43 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Address
+01/05/23 10:42:43 AM Monday - ContactUsForm - INFO : CONTACT PAGE ADDRESS.
+01/05/23 10:42:44 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Mobile No
+01/05/23 10:42:44 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Mobile No
+01/05/23 10:42:44 AM Monday - ContactUsForm - INFO : CONTACT PAGE MOBILE NUMBER.
+01/05/23 10:42:45 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 10:42:45 AM Monday - ContactUsForm - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 10:42:45 AM Monday - ContactUsForm - INFO : CONTACT PAGE SUBMIT BUTTON.
+01/05/23 10:43:15 AM Monday - ContactUsFormTest - INFO : APP LAUNCHED.
+01/05/23 10:43:16 AM Monday - ContactUsForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 10:43:16 AM Monday - ContactUsForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 10:43:16 AM Monday - ContactUsForm - INFO : CONTACT US BUTTON CLICKED.
+01/05/23 10:43:19 AM Monday - ContactUsForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+01/05/23 10:43:19 AM Monday - ContactUsForm - INFO : VERIFY CONTACT PAGE.
+01/05/23 10:43:19 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Name
+01/05/23 10:43:20 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Name
+01/05/23 10:43:20 AM Monday - ContactUsForm - INFO : CONTACT PAGE NAME.
+01/05/23 10:43:20 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Email
+01/05/23 10:43:21 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Email
+01/05/23 10:43:21 AM Monday - ContactUsForm - INFO : CONTACT PAGE EMAIL.
+01/05/23 10:43:21 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Address
+01/05/23 10:43:22 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Address
+01/05/23 10:43:22 AM Monday - ContactUsForm - INFO : CONTACT PAGE ADDRESS.
+01/05/23 10:43:23 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Mobile No
+01/05/23 10:43:23 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Mobile No
+01/05/23 10:43:23 AM Monday - ContactUsForm - INFO : CONTACT PAGE MOBILE NUMBER.
+01/05/23 10:43:23 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 10:43:23 AM Monday - ContactUsForm - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 10:43:23 AM Monday - ContactUsForm - INFO : CONTACT PAGE SUBMIT BUTTON.
+01/05/23 10:46:08 AM Monday - ContactUsFormTest - INFO : APP LAUNCHED.
+01/05/23 10:46:08 AM Monday - ContactUsForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 10:46:09 AM Monday - ContactUsForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 10:46:09 AM Monday - ContactUsForm - INFO : CONTACT US BUTTON CLICKED.
+01/05/23 10:46:10 AM Monday - ContactUsForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+01/05/23 10:46:10 AM Monday - ContactUsForm - INFO : VERIFY CONTACT PAGE.
+01/05/23 10:46:11 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Name
+01/05/23 10:46:11 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Name
+01/05/23 10:46:11 AM Monday - ContactUsForm - INFO : CONTACT PAGE NAME.
+01/05/23 10:46:12 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Email
+01/05/23 10:46:13 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Email
+01/05/23 10:46:13 AM Monday - ContactUsForm - INFO : CONTACT PAGE EMAIL.
+01/05/23 10:46:13 AM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Address
+01/05/23 10:46:14 AM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Address
+01/05/23 10:46:14 AM Monday - ContactUsForm - INFO : CONTACT PAGE ADDRESS.
+01/05/23 10:46:59 AM Monday - ContactUsForm - INFO : Element not found with LocatorType text and LocatorValue self._enterMobileNum
+01/05/23 10:46:59 AM Monday - ContactUsForm - INFO : Unable to send text element with LocatorType text and LocatorValue self._enterMobileNum
+01/05/23 11:04:03 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:04:03 AM Monday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:04:05 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 11:04:51 AM Monday - BaseTest - DEBUG : Element is not present with LocatorType id and LocatorValue True
+01/05/23 11:05:31 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:05:31 AM Monday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:05:34 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 11:05:34 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:05:34 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:05:35 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:05:35 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:05:36 AM Monday - BaseTest - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 11:05:36 AM Monday - BaseTest - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 11:06:04 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:06:04 AM Monday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:06:05 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 11:06:05 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:06:06 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:06:07 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:06:07 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:06:08 AM Monday - BaseTest - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 11:06:08 AM Monday - BaseTest - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 11:20:50 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:20:50 AM Monday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:20:52 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 11:20:52 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:20:53 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:20:53 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:20:54 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:20:54 AM Monday - BaseTest - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 11:20:55 AM Monday - BaseTest - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 11:20:56 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 11:20:56 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:20:56 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:20:57 AM Monday - BaseTest - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:20:57 AM Monday - BaseTest - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:20:57 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/Tv_admin
+01/05/23 11:30:48 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:30:48 AM Monday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:30:50 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 11:30:50 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:30:51 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:30:51 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:30:51 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:30:52 AM Monday - BaseTest - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 11:30:52 AM Monday - BaseTest - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 11:30:54 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 11:30:54 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:30:54 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:30:54 AM Monday - BaseTest - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:30:54 AM Monday - BaseTest - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:30:57 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/Tv_admin
+01/05/23 11:38:18 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:38:18 AM Monday - BaseTest - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:38:20 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 11:38:20 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:38:21 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:38:21 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:38:21 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:38:22 AM Monday - BaseTest - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 11:38:22 AM Monday - BaseTest - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 11:38:24 AM Monday - BaseTest - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 11:38:24 AM Monday - BaseTest - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:38:24 AM Monday - BaseTest - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:38:25 AM Monday - BaseTest - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:38:25 AM Monday - BaseTest - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:38:27 AM Monday - BaseTest - INFO : Unable to get text element with LocatorType id and LocatorValue com.code2lead.kwad:id/Tv_admin
+01/05/23 11:44:10 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:44:10 AM Monday - LoginPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:44:13 AM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 11:44:13 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:44:13 AM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:44:14 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:44:14 AM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:44:15 AM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 11:44:15 AM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 11:44:18 AM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 11:44:18 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:44:18 AM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:44:18 AM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:44:19 AM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:44:21 AM Monday - LoginPage - INFO : Unable to get text element with LocatorType id and LocatorValue com.code2lead.kwad:id/Tv_admin
+01/05/23 11:47:34 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:47:34 AM Monday - LoginPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:47:37 AM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 11:47:37 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:47:38 AM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:47:38 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:47:38 AM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:47:39 AM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 11:47:39 AM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 11:47:42 AM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 11:47:42 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:47:42 AM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:47:42 AM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:47:43 AM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:47:45 AM Monday - LoginPage - INFO : Unable to get text element with LocatorType id and LocatorValue com.code2lead.kwad:id/Tv_admin
+01/05/23 11:48:57 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:48:57 AM Monday - LoginPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 11:49:00 AM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 11:49:00 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:49:00 AM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 11:49:00 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:49:01 AM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 11:49:01 AM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 11:49:01 AM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 11:49:03 AM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 11:49:03 AM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:49:03 AM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 11:49:04 AM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:49:04 AM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 11:49:09 AM Monday - LoginPage - INFO : Unable to get text element with LocatorType id and LocatorValue com.code2lead.kwad:id/Tv_admin
+01/05/23 12:08:20 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 12:08:20 PM Monday - LoginPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 12:08:22 PM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 12:08:22 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 12:08:23 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 12:08:23 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 12:08:24 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 12:08:24 PM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 12:08:24 PM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 12:08:26 PM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 12:08:26 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 12:08:27 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 12:08:27 PM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 12:08:27 PM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 12:08:33 PM Monday - LoginPage - INFO : Unable to get text element with LocatorType id and LocatorValue com.code2lead.kwad:id/Tv_admin
+01/05/23 01:02:23 PM Monday - LoginPage - INFO : Element not found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 01:02:23 PM Monday - LoginPage - INFO : Unable to send text element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 01:02:25 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 01:02:25 PM Monday - LoginPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 01:02:28 PM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 01:03:44 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 01:03:44 PM Monday - LoginPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 01:03:47 PM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 01:03:47 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 01:03:48 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 01:03:48 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 01:03:49 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 01:03:49 PM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 01:03:50 PM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 01:03:51 PM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 01:03:51 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 01:03:51 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 01:03:52 PM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 01:03:52 PM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 01:04:42 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 01:04:42 PM Monday - LoginPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 01:04:45 PM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 01:04:45 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 01:04:46 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 01:04:46 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 01:04:47 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 01:04:47 PM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 01:04:47 PM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 01:04:49 PM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 01:04:49 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 01:04:50 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 01:04:51 PM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 01:04:51 PM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 01:44:51 PM Monday - ContactUsFormTest - INFO : APP LAUNCHED.
+01/05/23 01:45:05 PM Monday - ContactUsFormTest - INFO : APP LAUNCHED.
+01/05/23 01:45:05 PM Monday - ContactUsForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 01:45:05 PM Monday - ContactUsForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ContactUs
+01/05/23 01:45:05 PM Monday - ContactUsForm - INFO : CONTACT US BUTTON CLICKED.
+01/05/23 01:45:08 PM Monday - ContactUsForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Contact Us form
+01/05/23 01:45:08 PM Monday - ContactUsForm - INFO : VERIFY CONTACT PAGE.
+01/05/23 01:45:08 PM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Name
+01/05/23 01:45:09 PM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Name
+01/05/23 01:45:09 PM Monday - ContactUsForm - INFO : CONTACT PAGE NAME.
+01/05/23 01:45:09 PM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Email
+01/05/23 01:45:10 PM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Email
+01/05/23 01:45:10 PM Monday - ContactUsForm - INFO : CONTACT PAGE EMAIL.
+01/05/23 01:45:10 PM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Address
+01/05/23 01:45:11 PM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Address
+01/05/23 01:45:11 PM Monday - ContactUsForm - INFO : CONTACT PAGE ADDRESS.
+01/05/23 01:45:11 PM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue Enter Mobile No
+01/05/23 01:45:12 PM Monday - ContactUsForm - INFO : Send text on element with LocatorType text and LocatorValue Enter Mobile No
+01/05/23 01:45:12 PM Monday - ContactUsForm - INFO : CONTACT PAGE MOBILE NUMBER.
+01/05/23 01:45:13 PM Monday - ContactUsForm - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 01:45:13 PM Monday - ContactUsForm - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 01:45:13 PM Monday - ContactUsForm - INFO : CONTACT PAGE SUBMIT BUTTON.
+01/05/23 01:45:33 PM Monday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+01/05/23 01:45:33 PM Monday - EnterValueForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/EnterValue
+01/05/23 01:45:33 PM Monday - EnterValueForm - INFO : ENTER VALUE BUTTON CLICKED.
+01/05/23 01:45:34 PM Monday - EnterValueForm - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter some Value
+01/05/23 01:45:34 PM Monday - EnterValueForm - INFO : VERIFY ENTER VALUE PAGE.
+01/05/23 01:45:34 PM Monday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et1
+01/05/23 01:45:35 PM Monday - EnterValueForm - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et1
+01/05/23 01:45:35 PM Monday - EnterValueForm - INFO : ENTER TEXT IN TEXT FIELD.
+01/05/23 01:45:36 PM Monday - EnterValueForm - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+01/05/23 01:45:36 PM Monday - EnterValueForm - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Btn1
+01/05/23 01:45:36 PM Monday - EnterValueForm - INFO : SUBMIT BUTTON CLICKED.
+01/05/23 01:45:58 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 01:45:58 PM Monday - LoginPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Login
+01/05/23 01:46:00 PM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Login Page
+01/05/23 01:46:00 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 01:46:00 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+01/05/23 01:46:01 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 01:46:01 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+01/05/23 01:46:02 PM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue LOGIN
+01/05/23 01:46:03 PM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue LOGIN
+01/05/23 01:46:04 PM Monday - LoginPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue Enter Admin
+01/05/23 01:46:04 PM Monday - LoginPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 01:46:05 PM Monday - LoginPage - INFO : Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+01/05/23 01:46:05 PM Monday - LoginPage - INFO : Element found with LocatorType text and LocatorValue SUBMIT
+01/05/23 01:46:05 PM Monday - LoginPage - DEBUG : Click on element with LocatorType text and LocatorValue SUBMIT
+01/05/23 01:46:24 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:46:24 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:46:24 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:46:26 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType text and LocatorValue ScrollView
+01/05/23 01:46:26 PM Monday - ScrollViewPage - INFO : BUTTON1
+01/05/23 01:46:26 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 01:46:27 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 01:46:28 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:29 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:29 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:29 PM Monday - ScrollViewPage - INFO : BUTTON2
+01/05/23 01:46:29 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON2
+01/05/23 01:46:30 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON2
+01/05/23 01:46:31 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:31 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:31 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:31 PM Monday - ScrollViewPage - INFO : BUTTON3
+01/05/23 01:46:32 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON3
+01/05/23 01:46:32 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON3
+01/05/23 01:46:34 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:34 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:34 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:34 PM Monday - ScrollViewPage - INFO : BUTTON4
+01/05/23 01:46:35 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON4
+01/05/23 01:46:35 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON4
+01/05/23 01:46:37 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:37 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:37 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:37 PM Monday - ScrollViewPage - INFO : BUTTON5
+01/05/23 01:46:38 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON5
+01/05/23 01:46:38 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON5
+01/05/23 01:46:40 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:40 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:40 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:40 PM Monday - ScrollViewPage - INFO : BUTTON6
+01/05/23 01:46:40 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON6
+01/05/23 01:46:41 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON6
+01/05/23 01:46:42 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:42 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:42 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:42 PM Monday - ScrollViewPage - INFO : BUTTON7
+01/05/23 01:46:43 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON7
+01/05/23 01:46:43 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON7
+01/05/23 01:46:45 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:45 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:45 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:45 PM Monday - ScrollViewPage - INFO : BUTTON8
+01/05/23 01:46:45 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON8
+01/05/23 01:46:46 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON8
+01/05/23 01:46:47 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:47 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:47 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:47 PM Monday - ScrollViewPage - INFO : BUTTON9
+01/05/23 01:46:48 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON9
+01/05/23 01:46:48 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON9
+01/05/23 01:46:50 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:50 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:50 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:50 PM Monday - ScrollViewPage - INFO : BUTTON10
+01/05/23 01:46:50 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON10
+01/05/23 01:46:50 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON10
+01/05/23 01:46:52 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:52 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:52 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:52 PM Monday - ScrollViewPage - INFO : BUTTON11
+01/05/23 01:46:57 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON11
+01/05/23 01:46:57 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON11
+01/05/23 01:46:59 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:46:59 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:46:59 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:46:59 PM Monday - ScrollViewPage - INFO : BUTTON12
+01/05/23 01:47:00 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON12
+01/05/23 01:47:00 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON12
+01/05/23 01:47:01 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:01 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:47:01 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:47:01 PM Monday - ScrollViewPage - INFO : BUTTON13
+01/05/23 01:47:03 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON13
+01/05/23 01:47:03 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON13
+01/05/23 01:47:04 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:04 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:47:05 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:47:05 PM Monday - ScrollViewPage - INFO : BUTTON14
+01/05/23 01:47:05 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON14
+01/05/23 01:47:05 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON14
+01/05/23 01:47:07 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:07 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:47:07 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:47:07 PM Monday - ScrollViewPage - INFO : BUTTON15
+01/05/23 01:47:08 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON15
+01/05/23 01:47:08 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON15
+01/05/23 01:47:10 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:10 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue NO
+01/05/23 01:47:10 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue NO
+01/05/23 01:47:12 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON1
+01/05/23 01:47:13 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON1
+01/05/23 01:47:14 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:14 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:47:15 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:47:16 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:17 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:17 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:47:18 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON2
+01/05/23 01:47:19 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON2
+01/05/23 01:47:20 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:20 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:47:20 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:47:22 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:23 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:23 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:47:24 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON3
+01/05/23 01:47:24 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON3
+01/05/23 01:47:26 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:26 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:47:26 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:47:27 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:28 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:28 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:47:29 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON4
+01/05/23 01:47:29 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON4
+01/05/23 01:47:31 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:31 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:47:31 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:47:32 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:33 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:33 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:47:34 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON5
+01/05/23 01:47:34 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON5
+01/05/23 01:47:36 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:36 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:47:36 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:47:37 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:38 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:38 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:47:39 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON6
+01/05/23 01:47:39 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON6
+01/05/23 01:47:41 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:41 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:47:41 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:47:41 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:43 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:43 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:47:44 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON7
+01/05/23 01:47:44 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON7
+01/05/23 01:47:46 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:46 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:47:46 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:47:46 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:47 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:47 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:47:49 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON8
+01/05/23 01:47:49 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON8
+01/05/23 01:47:50 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:50 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:47:50 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:47:51 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:52 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:52 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:47:53 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON9
+01/05/23 01:47:54 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON9
+01/05/23 01:47:55 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:47:55 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:47:55 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:47:56 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:57 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:47:57 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:47:58 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON10
+01/05/23 01:47:58 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON10
+01/05/23 01:48:00 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:48:00 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:48:00 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:48:01 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:02 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:02 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:48:07 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON11
+01/05/23 01:48:08 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON11
+01/05/23 01:48:09 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:48:09 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:48:09 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:48:10 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:11 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:11 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:48:16 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON12
+01/05/23 01:48:16 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON12
+01/05/23 01:48:18 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:48:18 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:48:18 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:48:19 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:20 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:20 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:48:25 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON13
+01/05/23 01:48:25 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON13
+01/05/23 01:48:27 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:48:27 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:48:27 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:48:28 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:29 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:29 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:48:34 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON14
+01/05/23 01:48:34 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON14
+01/05/23 01:48:36 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:48:36 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:48:36 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:48:36 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:37 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:37 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.
+01/05/23 01:48:43 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue BUTTON15
+01/05/23 01:48:43 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue BUTTON15
+01/05/23 01:48:45 PM Monday - ScrollViewPage - DEBUG : Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+01/05/23 01:48:45 PM Monday - ScrollViewPage - INFO : Element found with LocatorType text and LocatorValue YES
+01/05/23 01:48:45 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType text and LocatorValue YES
+01/05/23 01:48:45 PM Monday - ScrollViewPage - INFO : Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:46 PM Monday - ScrollViewPage - DEBUG : Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+01/05/23 01:48:46 PM Monday - ScrollViewPage - INFO : SCROLL VIEW BUTTON CLICKED.

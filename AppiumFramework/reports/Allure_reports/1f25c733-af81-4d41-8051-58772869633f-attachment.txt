@@ -1,0 +1,11 @@
+[32mINFO    [0m LoginPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+[32mINFO    [0m LoginPage:BaseTest.py:92 Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et4
+[32mINFO    [0m LoginPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+[32mINFO    [0m LoginPage:BaseTest.py:92 Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Et5
+[32mINFO    [0m LoginPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue LOGIN
+[35mDEBUG   [0m LoginPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue LOGIN
+[35mDEBUG   [0m LoginPage:BaseTest.py:123 Element is Displayed with LocatorType text and LocatorValue Enter Admin
+[32mINFO    [0m LoginPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+[32mINFO    [0m LoginPage:BaseTest.py:92 Send text on element with LocatorType id and LocatorValue com.code2lead.kwad:id/Edt_admin
+[32mINFO    [0m LoginPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue SUBMIT
+[35mDEBUG   [0m LoginPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue SUBMIT

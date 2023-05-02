@@ -1,0 +1,4 @@
+[32mINFO    [0m ScrollViewPage:BaseTest.py:63 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:78 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:103 Element is Displayed with LocatorType text and LocatorValue ScrollView

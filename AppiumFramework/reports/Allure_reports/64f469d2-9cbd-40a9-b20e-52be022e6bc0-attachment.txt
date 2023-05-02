@@ -1,0 +1,210 @@
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON1
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON1
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON1
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON2
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON2
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON2
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON3
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON3
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON3
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON4
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON4
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON4
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON5
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON5
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON5
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON6
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON6
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON6
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON7
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON7
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON7
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON8
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON8
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON8
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON9
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON9
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON9
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON10
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON10
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON10
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON11
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON11
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON11
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON12
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON12
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON12
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON13
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON13
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON13
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON14
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON14
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON14
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:42 BUTTON15
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON15
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON15
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue NO
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue NO
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON1
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON1
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON2
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON2
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON3
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON3
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON4
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON4
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON5
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON5
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON6
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON6
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON7
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON7
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON8
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON8
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON9
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON9
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON10
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON10
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON11
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON11
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON12
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON12
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON13
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON13
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON14
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON14
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue BUTTON15
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue BUTTON15
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:123 Element is Displayed with LocatorType id and LocatorValue com.code2lead.kwad:id/title_template
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType text and LocatorValue YES
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType text and LocatorValue YES
+[32mINFO    [0m ScrollViewPage:BaseTest.py:64 Element found with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[35mDEBUG   [0m ScrollViewPage:BaseTest.py:79 Click on element with LocatorType id and LocatorValue com.code2lead.kwad:id/ScrollView
+[32mINFO    [0m ScrollViewPage:ScrollViewPage.py:21 SCROLL VIEW BUTTON CLICKED.
